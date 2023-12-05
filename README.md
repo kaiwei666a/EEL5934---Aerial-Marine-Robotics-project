@@ -2,5 +2,6 @@
 
 name: kai wei
       cheng ouyang
+      
 project:Trajectory tracking  sliding mode control of  AUV
 
